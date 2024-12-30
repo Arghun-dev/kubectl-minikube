@@ -1,4 +1,4 @@
-# kubectl-minikube
+# kubernetes-minikube
 
 ## Minikube
 
